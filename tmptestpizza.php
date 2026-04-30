@@ -2,8 +2,8 @@ tmptestepizza.php
  
 <?php
  
-require_once "/models/Pizza.php";
-require_once "/config/Database.php";
+require_once "models/Pizza.php";
+require_once "config/Database.php";
 //inserir referência para as classes que serão usadas
  
 echo "<h1>Testando Conexão e Modelo Pizza</h1>";
