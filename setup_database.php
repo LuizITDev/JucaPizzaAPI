@@ -5,7 +5,7 @@ $host = '127.0.0.1';
 $port = '3310';
 $username = 'root';
 $password = 'usbw';
-$db_name = 'jucapizzasdb';
+$db_name = 'test';
 
 try {
     $dsn = "mysql:host=$host;port=$port;charset=utf8";
